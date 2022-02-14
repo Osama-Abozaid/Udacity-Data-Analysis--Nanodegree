@@ -1,9 +1,9 @@
 # Udacity-Data-Analysis--Nanodegree
-# Project1: Investigate a Dataset (TMDB Movie Dataset)
-# Introduction
+## Project1: Investigate a Dataset (TMDB Movie Dataset)
+### Introduction
 This is a dataset of TMDB movies, contains data about 10,000 movies including user ratings and revenue. This dataset was generated from The Movie Database API.
 
-# Research Questions
+### Research Questions
 <OL>
   <li>What is the most popular genre of movies?</li>
   <li>What is the highest revenue per genre?</li>
